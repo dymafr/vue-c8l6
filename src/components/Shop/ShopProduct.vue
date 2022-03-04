@@ -4,7 +4,7 @@
   <div class="product d-flex flex-column">
     <div class="product-image"></div>
     <div class="p-10 d-flex flex-column">
-      <h4>Macboo Pro</h4>
+      <h4>Macbook Pro</h4>
       <p>Performances exceptionnelles avec la puce M1 Pro ou M1</p>
       <div class="d-flex flex-row align-items-center">
         <strong class="flex-fill">Prix : 1500€</strong>
