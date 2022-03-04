@@ -22,7 +22,7 @@
   &-image {
     border-top-right-radius: var(--border-radius);
     border-top-left-radius: var(--border-radius);
-    background-image: 'https://media.ldlc.com/r1600/ld/products/00/05/82/01/LD0005820198_1.jpg';
+    background-image: url('https://media.ldlc.com/r1600/ld/products/00/05/82/01/LD0005820198_1.jpg');
     background-size: cover;
     background-position: center;
     height: 250px;
