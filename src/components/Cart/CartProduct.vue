@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="mb-10 b5">
+  <div class="mb-10">
     <h1>Product</h1>
   </div>
 </template>
